@@ -1,5 +1,5 @@
 # 💫About Me :
-Im a backend dotnet developer
+As a backend .NET developer, I specialize in building robust and scalable web applications using the .NET framework. With a strong foundation in C# and ASP.NET Core, I focus on developing the server-side logic, APIs, and database systems that power dynamic web applications. My expertise includes integrating various databases like SQL Server and MySQL, implementing authentication and authorization mechanisms, optimizing performance, and ensuring the reliability and security of the applications I work on. I am also familiar with best practices for version control using Git and collaborating effectively within development teams to deliver high-quality solutions. My goal is to continue refining my skills and stay up-to-date with the latest advancements in .NET technologies to provide cutting-edge solutions for modern web development challenges
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/thanh.phat.18062533/) 
